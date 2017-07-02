@@ -3,14 +3,14 @@
 - Statistical analysis: Bodo Winter
 
 
-## Analysis script files:
+### Analysis script files:
 
 - POS_counts.R : analysis of word counts per lexical category
 - OED_adjective_derivation.R : analysis of origins of adjectives
 - wisconsin_norms.R : sound/color and motion correlations
 
 
-## Data files:
+### Data files:
 
 - lynott_connell_2009_adj_norms.csv : 423 Lynott & Connell (2009) adjectives
 - lynott_connell_2013_noun_norms.csv : 400 Lynott & Connell (2013) nouns
