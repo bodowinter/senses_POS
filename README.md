@@ -1,12 +1,14 @@
 # Sensory language across lexical categories
-## Project by Francesca Strik Lievers and Bodo Winter
-## Statistical analysis: Bodo Winter
+- Project by Francesca Strik Lievers and Bodo Winter
+- Statistical analysis: Bodo Winter
+
 
 ## Analysis script files:
 
 - POS_counts.R : analysis of word counts per lexical category
 - OED_adjective_derivation.R : analysis of origins of adjectives
 - wisconsin_norms.R : sound/color and motion correlations
+
 
 ## Data files:
 
