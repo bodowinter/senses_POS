@@ -6,7 +6,8 @@
 ### Analysis script files:
 
 - POS_counts.R : analysis of word counts per lexical category
-- OED_adjective_derivation.R : analysis of origins of adjectives
+- POS_counts_all_combinations.R : batch version of POS_counts.R that goes through all analysis switches
+- OED_adjective_derivation.R : analysis of origins of adjectives (converging evidence showing sound/verb association for Lynott & Connell 2009 norms, not included in main body of text)
 - wisconsin_norms.R : sound/color and motion correlations
 
 
@@ -20,5 +21,6 @@
 - SUBTLEX_US.csv : frequency values and additional POS tags
 - OED_etymology.csv : OED origins for Lynott & Connell (2009) adjectives
 - wisconsin_norms.csv : Wisconsin Perceptual Attribute Rating database
+- allsummary.csv : result of batch processing
 
 
